@@ -20,6 +20,7 @@ using Windows.UI.Xaml.Navigation;
 
 namespace aFOODable
 {
+    //Test Nick
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
